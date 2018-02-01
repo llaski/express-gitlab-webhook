@@ -1,0 +1,28 @@
+{
+  "name": "express-gitlab-webhook",
+  "version": "1.0.0",
+  "description": "An express middleware for handling gitlab webhooks",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llaski/express-gitlab-webhook.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "gitlab",
+    "webhook",
+    "express",
+    "middleware"
+  ],
+  "author": "Larry Laski<larry.laski@gmail.com> (https://larrylaski.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/llaski/express-gitlab-webhook/issues"
+  },
+  "homepage": "https://github.com/llaski/express-gitlab-webhook#readme",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  }
+}
